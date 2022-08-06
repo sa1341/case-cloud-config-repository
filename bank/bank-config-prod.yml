@@ -1,0 +1,4 @@
+money:
+  platform:
+    service:
+      url: https://money.prod-api.kakaopay.com

@@ -1,0 +1,4 @@
+genie:
+  javis:
+    service:
+      url: https://prod-genie-api.kakaopay.com

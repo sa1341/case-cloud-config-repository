@@ -1,0 +1,5 @@
+kafka:
+  ums:
+    service:
+      url: https://sandbox.kafka-message.kakaopaysec.com
+      topic: ums-sandbox-topic

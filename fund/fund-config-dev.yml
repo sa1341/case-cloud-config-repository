@@ -1,0 +1,4 @@
+fund:
+  channel:
+    service:
+      url: https://dev.fund-api.kakaopayinvest.com

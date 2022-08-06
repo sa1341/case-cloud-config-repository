@@ -1,0 +1,4 @@
+genie:
+  javis:
+    service:
+      url: https://sandbox-genie-api.kakaopay.com

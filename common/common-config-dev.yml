@@ -1,0 +1,5 @@
+kafka:
+  ums:
+    service:
+      url: https://dev.kafka-message.kakaopaysec.com
+      topic: ums-dev-topic

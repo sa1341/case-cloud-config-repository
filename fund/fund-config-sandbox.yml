@@ -1,0 +1,4 @@
+fund:
+  channel:
+    service:
+      url: https://sandbox.fund-api.kakaopayinvest.com

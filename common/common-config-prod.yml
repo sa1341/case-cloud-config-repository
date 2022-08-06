@@ -1,0 +1,5 @@
+kafka:
+  ums:
+    service:
+      url: https://prod.kafka-message.kakaopaysec.com
+      topic: ums-prod-topic
